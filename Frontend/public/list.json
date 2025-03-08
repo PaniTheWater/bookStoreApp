@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Fairy Tale Wonders",
+    "category": "Fantasy",
+    "Price": "Free",
+    "title": "Magical stories featuring princes, princesses, and mystical creatures.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Echoes of the Void",
+    "category": "Science ",
+    "Price": "Free",
+    "title": "A detective races against time to uncover a hidden conspiracy.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Last Dragon’s Oath",
+    "category": "Fantasy",
+    "Price": 399,
+    "title": "A young warrior must embrace their destiny to save a dying kingdom.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Silent Clue",
+    "category": "Mystery",
+    "Price": 1299,
+    "title": "A detective races against time to uncover a hidden conspiracy.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Enchanted Forest",
+    "category": "Fantasy",
+    "Price": 349,
+    "title": "A hidden forest where magical creatures guard an ancient secret.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Legends of the Stars",
+    "category": "Science ",
+    "Price": 599,
+    "title": "Explorers venture into deep space to uncover lost civilizations.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shadows in the Dark",
+    "category": "Horror",
+    "Price": "Free",
+    "title": "A haunted house reveals its terrifying secrets one by one.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Timeless Tales",
+    "category": "Classic ",
+    "Price": 199,
+    "title": "A collection of classic fairy tales and fables.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Whispers of the Heart",
+    "category": "Romance",
+    "Price": 549,
+    "title": "Two strangers meet under unlikely circumstances and find love.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Warriors of the Ancient Lands",
+    "category": "Historical ",
+    "Price": 699,
+    "title": "A gripping tale of courage and honor in ancient times.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Great Inventors",
+    "category": "Biography",
+    "Price": 399,
+    "title": "The inspiring journeys of history's greatest inventors.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Beyond the Horizon",
+    "category": "Adventure",
+    "Price": "Free",
+    "title": "An explorer’s thrilling journey into uncharted lands.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  }
+]
